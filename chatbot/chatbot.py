@@ -31,6 +31,6 @@ while True:
     elif user == "bye":
         print("Bot: Goodbye!")
         break
-
+        
     else:
         print("Bot: I don't understand.") 
